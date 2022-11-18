@@ -1,0 +1,28 @@
+
+
+.pdone{
+    position:relative;
+    left: 
+    0px;
+    height: 250px;
+    width: 180px;
+    border: 5px red solid;
+}
+
+.padincton{
+    left: 540px;
+    position: absolute;
+    background-color: blue;
+    width: 800px;
+}
+
+h1{
+    font-size: 1.2rem;
+    font-family: URW Chancery L, cursive; 
+    color: brown;
+}
+
+h2{
+    font-size: 1.1rem;
+    color: bisque;
+}
